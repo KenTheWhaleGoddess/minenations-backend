@@ -1,4 +1,4 @@
-const addresses =[
+const addresses = [
   "0x7e748f02de671a7575536d30970a337f775b2b7a",
   "0xdb7e2c5ffff27c4a5afcc788c12f6c97f59ee0ef",
   "0x1c514ec7048a48d8c21406629c995553472a7ffb",
